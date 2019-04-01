@@ -1,0 +1,6 @@
+package SG1;
+
+message Login{
+	required string account = 1;		// 账号
+	required string password = 2;       // 密码
+}

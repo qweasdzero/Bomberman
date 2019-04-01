@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <AssetBundleCollection>
+    <AssetBundles>
+      <AssetBundle Name="Configs" LoadType="0" Packed="True" />
+      <AssetBundle Name="DataTables" LoadType="0" Packed="True" />
+      <AssetBundle Name="Fonts" LoadType="0" Packed="True" />
+      <AssetBundle Name="Lua" LoadType="0" Packed="True" />
+      <AssetBundle Name="Scenes" LoadType="0" Packed="True" />
+      <AssetBundle Name="UI/UIForms" LoadType="0" Packed="True" />
+      <AssetBundle Name="UI/UIItem" LoadType="0" Packed="True" />
+    </AssetBundles>
+    <Assets>
+      <Asset Guid="1123360ee636600418610500bbf2c18e" AssetBundleName="UI/UIItem" />
+      <Asset Guid="291cf6793564fd240855313a499363ec" AssetBundleName="DataTables" />
+      <Asset Guid="2e9f1d41a94d7264cb72ba31cbc51d40" AssetBundleName="Fonts" />
+      <Asset Guid="2efe9d496ff37844bb50169bd1129186" AssetBundleName="DataTables" />
+      <Asset Guid="35aae28ec3b9d57488d097b10b186ab0" AssetBundleName="DataTables" />
+      <Asset Guid="3db94473be320014580a4a08a4975e7d" AssetBundleName="UI/UIForms" />
+      <Asset Guid="3fe9d2257ceb7bb4cb5b4ebba7c2a143" AssetBundleName="DataTables" />
+      <Asset Guid="49b8ae96f2860434a91db6d9d1242b69" AssetBundleName="DataTables" />
+      <Asset Guid="4a6f54ea716b385429796ff5453cd616" AssetBundleName="DataTables" />
+      <Asset Guid="4c6e0b3b05994d88af40fd700851c283" AssetBundleName="Lua" />
+      <Asset Guid="5a4b913db883f6240b18f9987ca1e2ca" AssetBundleName="DataTables" />
+      <Asset Guid="5e45df64844edfa44ac1a0fdff503c73" AssetBundleName="DataTables" />
+      <Asset Guid="61c8efe1ef0568040af9312f230f53d4" AssetBundleName="Scenes" />
+      <Asset Guid="6445f9a954ca453449955641dbafdaec" AssetBundleName="DataTables" />
+      <Asset Guid="65f3833e6784c6941abab21f4e85d29d" AssetBundleName="Configs" />
+      <Asset Guid="71224b4f6d73d3b4bbe09b10f6b773a4" AssetBundleName="DataTables" />
+      <Asset Guid="b859f34c00e77db469f124aa549af0cf" AssetBundleName="DataTables" />
+      <Asset Guid="b86a7f4c36d51cf40a5a38a69e16cacb" AssetBundleName="Configs" />
+      <Asset Guid="c01b105cc9a34954b5a25b51c08064f3" AssetBundleName="Lua" />
+      <Asset Guid="ca888dd7b628bc847b7dfbb99396ebf3" AssetBundleName="UI/UIItem" />
+      <Asset Guid="dd5693dc885d98d4b840deeb61ff178f" AssetBundleName="Lua" />
+      <Asset Guid="ec32842c0f9cbca4a8e967717a970963" AssetBundleName="DataTables" />
+      <Asset Guid="ff436c3e6f6b529419deb0a2d5ccfb14" AssetBundleName="UI/UIForms" />
+    </Assets>
+  </AssetBundleCollection>
+</UnityGameFramework>

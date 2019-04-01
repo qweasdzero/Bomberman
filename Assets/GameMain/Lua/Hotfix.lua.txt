@@ -1,0 +1,9 @@
+local GameFramework = CS.GameFramework
+local UnityGameFramework = CS.UnityGameFramework
+local UnityGameFrameworkRuntime = UnityGameFramework.Runtime
+local Log = UnityGameFrameworkRuntime.Log
+Log.Info("C# 侧热修复模块初始化")
+print("Lua 侧热修复模块初始化")
+
+self:LoadLua("Test",GameFramework.LoadType.Text,false)
+self:LoadLua("Require",GameFramework.LoadType.Text,true)

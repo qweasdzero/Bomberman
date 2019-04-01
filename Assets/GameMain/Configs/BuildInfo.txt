@@ -1,0 +1,5 @@
+{
+  "GameVersion": "1.0.0",
+  "InternalGameVersion": 0,
+  "CheckVersionUrl": "http://localhost/version.txt"
+}
